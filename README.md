@@ -1,4 +1,6 @@
-meu nome é: Yasmim Santos 
->estou estudando na Alura
->estou me desenvolvendo na linguagem JavaScript
->utilizo esse espaço para minha organizaçã0 e compartilhamento dos meus projetos desenvolvidos
+Boas vindas ao meu perfil 💙
+Meu nome é yasmim santos
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
